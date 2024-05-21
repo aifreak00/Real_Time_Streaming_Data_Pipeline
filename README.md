@@ -106,6 +106,6 @@ For detailed documentation on each component, refer to the following:
 - [Docker Documentation](https://docs.docker.com/)
 
 ## 🏘️ Architecture/Workflows
+![Data engineering architecture](https://github.com/aifreak00/Real_Time_Streaming_Data_Pipeline/assets/113664560/49774f11-c778-4d52-919b-e627d1b284eb)
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
